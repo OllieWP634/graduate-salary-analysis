@@ -1,4 +1,5 @@
 # Income Data Analysis Tool
+*Graduate salary analysis using MATLAB, supplemented by Excel.*
 
 ## Overview
 A **MATLAB** application that compares average UK salary trends for *graduates*, *postgraduates*, and *non-graduates*.
